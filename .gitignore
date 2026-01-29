@@ -1,0 +1,11 @@
+# Terraform logic
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Variables files
+*.tfvars
+*.auto.tfvars
+
+# OS generated files
+.DS_Store
